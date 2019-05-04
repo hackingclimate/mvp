@@ -1,10 +1,9 @@
 ---
 id: welcome
-title: Welcome
-sidebar_label: Welcome
+title: Hi 👋
+sidebar_label: Hi 👋
 ---
 
-## Hi 👋
 We are a public community organization operating on [Aragon](aragon.org).
 
 We are dedicated to supporting a future that is more **free**, **fair**, and **open**.

@@ -1,7 +1,7 @@
 ---
 id: issues 
-title: Open Issues
-sidebar_label: Open Issues
+title: Open Issues On GitHub 🚧
+sidebar_label: Open Issues 🚧
 ---
 
 # Welcome to the Open Issues!

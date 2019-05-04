@@ -1,14 +1,12 @@
 ---
 id: socials 
-title: Socials
-sidebar_label: Socials
+title: Socials 📱
+sidebar_label: Socials 📱
 ---
-
-# Socials
 
 ### Keybase Team 💬
 
-We use keybase to communicate. Before reading further you should join our community and introduce yourself!
+We use keybase to communicate. Please say hi and introduce yourself!
 
 > ⚠️ Search for `1hive` in keybase
 
