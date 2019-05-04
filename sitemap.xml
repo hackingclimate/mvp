@@ -8,10 +8,14 @@
 <url> <loc>https://1hive.github.io/mvp/blog/2017/09/25/testing-rss</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2017/04/10/blog-post-two</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2016/03/11/blog-post</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://1hive.github.io/mvp/docs/doc1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/doc1" /> </url>
-<url> <loc>https://1hive.github.io/mvp/docs/doc2</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/doc2" /> </url>
-<url> <loc>https://1hive.github.io/mvp/docs/doc3</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/doc3" /> </url>
-<url> <loc>https://1hive.github.io/mvp/docs/docs-intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/docs-intro" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/community/handbook</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/handbook" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/community/socials</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/socials" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/community/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/welcome" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/contributing/docs.md</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/contributing/docs.md" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/contributing/issues</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/contributing/issues" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/contributing/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/contributing/welcome" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/doc4</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/doc4" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/doc5" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/guides/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/welcome" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/welcome" /> </url>
 </urlset>
