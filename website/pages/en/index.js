@@ -95,8 +95,16 @@ class Index extends React.Component {
       <div
         className="productShowcaseSection paddingBottom"
         style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+				<img></img>
+        <h2>Get Some Honey!</h2>
+				<div>
+					<h4>
+						Check out open issues in the DAO
+					</h4>
+					<a href='https://rinkeby.aragon.org/#/0xe520428C232F6Da6f694b121181f907931fD2211/0xc2555abaed3797b52248e814172d2bea6728e542'>
+						<img src='img/honeypot.png' />
+					</a>
+				</div>
       </div>
     );
 

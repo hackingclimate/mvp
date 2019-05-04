@@ -3,7 +3,7 @@
 		"Welcome": ["welcome"],
     "Community": ["community/welcome", "community/socials", "community/handbook"],
     "Guides": ["guides/welcome"],
-    "Contributing": ["contributing/welcome", "contributing/docs", "contributing/issues"]
+    "Contributing": ["contributing/welcome", "contributing/docs","contributing/ideas", "contributing/issues"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

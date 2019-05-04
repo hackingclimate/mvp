@@ -1,5 +1,5 @@
 ---
-id: docs.md 
+id: docs 
 title: Docs 🦕
 sidebar_label: Docs 🦕  
 ---
