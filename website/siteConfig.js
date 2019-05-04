@@ -11,18 +11,18 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: 'User1',
+    caption: '1Hive',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    image: '/img/honeycomb.png',
+    infoLink: 'https://github.com/1Hive',
     pinned: true,
   },
 ];
 
 const siteConfig = {
   title: '1Hive', // Title for your website.
-  tagline: 'A swarm of busy bees',
+  tagline: 'Let’s change the world, together.',
 
 	// UNCOMMENT FOR LOCAL DEVELOPMENT
 	url: 'https://your-docusaurus-test-site.com', // Your website URL

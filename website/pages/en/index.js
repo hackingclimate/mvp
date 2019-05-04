@@ -91,6 +91,25 @@ class Index extends React.Component {
       </Container>
     );
 
+    const Features = () => (
+      <Block layout="fourColumn">
+        {[
+          {
+            content: 'The hive is a dynamic ecosystem where everyone has a voice',
+            image: `${baseUrl}img/nest.png`,
+            imageAlign: 'top',
+            title: 'Community Driven',
+          },
+          {
+            content: 'You can use all the research, code, and projects we ship',
+            image: `${baseUrl}img/hibiscus.png`,
+            imageAlign: 'top',
+            title: 'Open Source',
+          },
+        ]}
+      </Block>
+    );
+
     const FeatureCallout = () => (
       <div
         className="productShowcaseSection paddingBottom"
@@ -99,7 +118,7 @@ class Index extends React.Component {
         <h2>Get Some Honey!</h2>
 				<div>
 					<h4>
-						Check out open issues in the DAO
+						Check out open issues in the DAO 🐝
 					</h4>
 					<a href='https://rinkeby.aragon.org/#/0xe520428C232F6Da6f694b121181f907931fD2211/0xc2555abaed3797b52248e814172d2bea6728e542'>
 						<img src='img/honeypot.png' />
@@ -108,64 +127,46 @@ class Index extends React.Component {
       </div>
     );
 
-    const TryOut = () => (
-      <Block id="try">
-        {[
-          {
-            content:
-              'To make your landing page more attractive, use illustrations! Check out ' +
-              '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
-              'The illustrations you see on this page are from unDraw.',
-            image: `${baseUrl}img/undraw_code_review.svg`,
-            imageAlign: 'left',
-            title: 'Wonderful SVG Illustrations',
-          },
-        ]}
-      </Block>
-    );
-
-    const Description = () => (
-      <Block background="dark">
-        {[
-          {
-            content:
-              'This is another description of how this project is useful',
-            image: `${baseUrl}img/undraw_note_list.svg`,
-            imageAlign: 'right',
-            title: 'Description',
-          },
-        ]}
-      </Block>
-    );
-
-    const LearnHow = () => (
+    const Project1 = () => (
       <Block background="light">
         {[
           {
             content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
+						'1Hive is our home on Aragon. We are experimenting with and documenting processes and tools developed by Autark and Aragon One to coordinate effort in an open on-chain cooperative.  ' + 
+						'\n**Status:** 👨‍🔬 Testing',
+            image: `${baseUrl}img/1hive.png`,
             imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
+            title: '[1Hive](http://1hive.org/)',
           },
         ]}
       </Block>
     );
 
-    const Features = () => (
-      <Block layout="fourColumn">
+    const Project2 = () => (
+      <Block id="try">
         {[
           {
-            content: 'This is the content of my feature',
-            image: `${baseUrl}img/undraw_react.svg`,
-            imageAlign: 'top',
-            title: 'Feature One',
+            content:
+						'Apiary is a mechanism for accountable crowdfunding using bonding curves and a continuous tap. Aragon has funded the Aragon Black team to implement Apiary as a fundraising application available to Aragon Organizations.  ' +
+						'\n**Status:** 🛠 In Development',
+            image: `${baseUrl}img/apiary.png`,
+            imageAlign: 'left',
+            title: '[Apiary](https://github.com/1Hive/Apiary)',
           },
+        ]}
+      </Block>
+    );
+
+    const Project3 = () => (
+      <Block background="dark">
+        {[
           {
-            content: 'The content of my second feature',
-            image: `${baseUrl}img/undraw_operating_system.svg`,
-            imageAlign: 'top',
-            title: 'Feature Two',
+            content:
+						'An alternative to permissive and copyleft open source licenses intended to support a self-sustaining digital commons inspired by radical markets.  ' +
+						'\n**Status:** 💡 Early Concept',
+            image: `${baseUrl}img/hive-commons.png`,
+            imageAlign: 'right',
+            title: '[Commons License](https://github.com/1Hive/commons-license)',
           },
         ]}
       </Block>
@@ -188,12 +189,12 @@ class Index extends React.Component {
 
       return (
         <div className="productShowcaseSection paddingBottom">
-          <h2>Who is Using This?</h2>
-          <p>This project is used by all these people</p>
+          <h2>What else have we built?</h2>
+          <p>Checkout the honeycomb!</p>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
-              More {siteConfig.title} Users
+              More {siteConfig.title} Projets
             </a>
           </div>
         </div>
@@ -206,9 +207,9 @@ class Index extends React.Component {
         <div className="mainContainer">
           <Features />
           <FeatureCallout />
-          <LearnHow />
-          <TryOut />
-          <Description />
+          <Project1 />
+          <Project2 />
+          <Project3 />
           <Showcase />
         </div>
       </div>
