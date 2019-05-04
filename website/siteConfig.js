@@ -23,8 +23,14 @@ const users = [
 const siteConfig = {
   title: '1Hive', // Title for your website.
   tagline: 'A swarm of busy bees',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+
+	// UNCOMMENT FOR LOCAL DEVELOPMENT
+	url: 'https://your-docusaurus-test-site.com', // Your website URL
+	baseUrl: '/', // Base URL for your project */
+	
+	// UNCOMMENT FOR PUBLISHING TO GH-PAGES
+	//url: 'https://1hive.github.io', // Your website URL
+	//baseUrl: '/mvp/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -38,9 +44,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'docs-intro', label: 'Docs'},
-    {page: 'help', label: 'Help'},
+    {doc: 'welcome', label: 'Docs'},
     {blog: true, label: 'Blog'},
+    {page: 'help', label: 'Help'},
   ],
 
   // If you have users set above, you add it here:
