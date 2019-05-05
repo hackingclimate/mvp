@@ -2,7 +2,7 @@
   "docs": {
 		"Welcome": ["welcome"],
     "Community": ["community/welcome", "community/socials", "community/handbook"],
-    "Guides": ["guides/welcome"],
+    "Guides": ["guides/welcome", "guides/ethereum", "guides/aragon", "guides/autark"],
     "Contributing": ["contributing/welcome", "contributing/docs","contributing/ideas", "contributing/issues"]
   },
   "docs-other": {

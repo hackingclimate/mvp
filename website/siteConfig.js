@@ -24,6 +24,8 @@ const siteConfig = {
   title: '1Hive', // Title for your website.
   tagline: 'Let’s change the world, together.',
 
+	/////////////////////////////////////////////////////////////////////////
+
 	// UNCOMMENT FOR LOCAL DEVELOPMENT
 	url: 'https://your-docusaurus-test-site.com', // Your website URL
 	baseUrl: '/', // Base URL for your project */
@@ -31,9 +33,12 @@ const siteConfig = {
 	// UNCOMMENT FOR PUBLISHING TO GH-PAGES
 	//url: 'https://1hive.github.io', // Your website URL
 	//baseUrl: '/mvp/', // Base URL for your project */
+	
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
+	
+	/////////////////////////////////////////////////////////////////////////
 
   // Used for publishing and more
   projectName: 'mvp',

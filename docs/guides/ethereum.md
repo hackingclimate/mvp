@@ -1,7 +1,7 @@
 ---
-id: basics
-sidebar_label: Getting Started 🐛
-title: Getting started with Ethereum 🐛
+id: ethereum
+sidebar_label: Ethereum ✨
+title: Getting started with Ethereum ✨
 ---
 
 <br>
