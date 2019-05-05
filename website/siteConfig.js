@@ -14,7 +14,7 @@ const users = [
     caption: '1Hive',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/honeycomb.png',
+    image: 'img/honeycomb.png',
     infoLink: 'https://github.com/1Hive',
     pinned: true,
   },
@@ -25,12 +25,12 @@ const siteConfig = {
   tagline: 'Let’s change the world, together.',
 
 	// UNCOMMENT FOR LOCAL DEVELOPMENT
-	url: 'https://your-docusaurus-test-site.com', // Your website URL
-	baseUrl: '/', // Base URL for your project */
+	//url: 'https://your-docusaurus-test-site.com', // Your website URL
+	//baseUrl: '/', // Base URL for your project */
 	
 	// UNCOMMENT FOR PUBLISHING TO GH-PAGES
-	//url: 'https://1hive.github.io', // Your website URL
-	//baseUrl: '/mvp/', // Base URL for your project */
+	url: 'https://1hive.github.io', // Your website URL
+	baseUrl: '/mvp/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
