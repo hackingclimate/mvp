@@ -1,11 +1,16 @@
 ---
 id: autark
-sidebar_label: Autark TPS Apps 🐛
-title: Autark TPS Apps 🐛
+sidebar_label: Autark TPS 🐛
+title: Autark TPS 🐛
 ---
 
+## Autark
+- mission
+- flock team
+- apps
 
+## Projects
 
-# Dot Voting
+## Allocations
 
-This file will explain how TPS dot voting works.
+## Dot Voting
