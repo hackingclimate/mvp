@@ -23,7 +23,7 @@ If you want to learn more about the architecture of Aragon in general, the [Wiki
 The client is the thing you use to interact with software. In this case that's the Aragon app itself. The UI is fairly standard, but takes a some getting used to at first. While you can go to https://mainnet.aragon.org/#/ to roll your own DAO, it's not very fun exploring a decentralized organization of 1. Luckily you don't have to! [1Hive has DAO that's live and running](https://rinkeby.aragon.org/#/0xe520428C232F6Da6f694b121181f907931fD2211). Feel free to click around and explore how the various apps correspond to the spec outline in the [handbook](https://1hive.github.io/mvp/docs/guides/1hive). Don't worry, unless you're a member of the hive that has voting power you can't break anything, so any button is fair game 😊
 <br>
 
-## Aragon Apps
+## [Aragon Apps](https://wiki.aragon.org/tutorials/Aragon_User_Guide/#3-aragon-apps)
 
 The Aragon Core team officially ships and maintains a few apps. It would be cool if someone explained them here or linked to something that did.
 

@@ -1,6 +1,6 @@
 ---
-id: bc
-sidebar_label: BC
+id: bonding-curve
+sidebar_label: Bonding Curve 🗠
 title:Awesome Bonding Curves 😎
 ---
 

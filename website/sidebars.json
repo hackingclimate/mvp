@@ -1,9 +1,32 @@
 {
   "docs": {
-		"Welcome": ["welcome"],
-    "Community": ["community/socials"],
-    "Guides": ["guides/welcome", "guides/ethereum", "guides/aragon", "guides/tps", "guides/1hive", "guides/bc"],
-    "Contributing": ["contributing/welcome", "contributing/docs","contributing/ideas", "contributing/issues"]
+		"Welcome": [
+			"welcome"
+		],
+    "Community": [
+			"community/socials"
+		],
+    "Guides": [
+			"guides/welcome",
+			"guides/getting-started",
+			"guides/token-manager",
+			"guides/vault",
+			"guides/finance",
+			"guides/allocation",
+			"guides/redemption",
+			"guides/bonding-curve",
+			"guides/multisig",
+			"guides/voting",
+			"guides/proxy-voting",
+			"guides/dot-voting", 
+			"guides/tcr"
+		],
+    "Contributing": [
+			"contributing/welcome",
+			"contributing/docs",
+			"contributing/ideas", 
+			"contributing/issues"
+		]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
