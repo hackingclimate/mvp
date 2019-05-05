@@ -4,6 +4,9 @@ sidebar_label: Aragon 🦅
 title: Getting started with Aragon 🦅
 ---
 
+# WIP 🚧
+Just posting stuff to start getting something on the blank page that can then be refined into something that's actually helpful :) 
+
 ## What Is Aragon
 
 Aragon wants to empower people and create more freedom in the world. Most people like that idea, but Aragon is actually doing something about it. You can read all about it in [their manifesto](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-0.md). 
