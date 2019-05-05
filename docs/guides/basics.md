@@ -4,7 +4,7 @@ sidebar_label: Getting Started 🐛
 title: Getting started with Ethereum 🐛
 ---
 
-# WIP 🚧
+<h1 align='center'>WIP 🚧</h1>
 Just posting stuff to start getting something on the blank page that can then be refined into something that's actually helpful :) 
 
 Link to basic stuff like Metamask, best practices around keys, Etc...
