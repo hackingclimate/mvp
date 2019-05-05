@@ -6,11 +6,11 @@ authorURL: https://github.com/lkngtn
 
 <img src='https://cdn-images-1.medium.com/max/1440/1*kfZ3IVwHaTDeGPlXUDwbpQ.png' />
 
-## Where it all began
-
 This is a repost of the [Introducing Hive Commons](https://medium.com/hive-commons/introducing-hive-commons-95dad77814bb) post. While some of the details and references in the post are no longer relevant, the overall message is important. Hopefully this provides more insight into the foundation, intention, and goals of 1Hive. 
 
 <hr>
+
+## Hive Commons
 
 [Hive Commons](http://hivecommons.org/) is a grass roots movement intended to give the public a greater voice in industry and politics by using emerging technologies to enable new forms of collective activism.
 
