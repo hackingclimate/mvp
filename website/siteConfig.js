@@ -32,12 +32,12 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
 	// UNCOMMENT FOR LOCAL DEVELOPMENT
-	url: 'https://your-docusaurus-test-site.com', // Your website URL
-	baseUrl: '/', // Base URL for your project */
+	//url: 'https://your-docusaurus-test-site.com', // Your website URL
+	//baseUrl: '/', // Base URL for your project */
 	
 	// UNCOMMENT FOR PUBLISHING TO GH-PAGES
-	//url: 'https://1hive.github.io', // Your website URL
-	//baseUrl: '/mvp/', // Base URL for your project */
+	url: 'https://1hive.github.io', // Your website URL
+	baseUrl: '/mvp/', // Base URL for your project */
 	
 	/////////////////////////////////////////////////////////////////////////
 
