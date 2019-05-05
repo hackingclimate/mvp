@@ -2,35 +2,35 @@
 <rss version="2.0">
     <channel>
         <title>1Hive Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://1hive.github.io/mvp/blog</link>
         <description>The best place to stay up-to-date with the latest 1Hive news and events.</description>
         <lastBuildDate>Sat, 04 May 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>1Hive Blog</title>
-            <url>https://your-docusaurus-test-site.com/img/favicon.ico</url>
-            <link>https://your-docusaurus-test-site.com/blog</link>
+            <url>https://1hive.github.io/mvp/img/favicon.ico</url>
+            <link>https://1hive.github.io/mvp/blog</link>
         </image>
         <copyright>Copyright © 2019 1Hive</copyright>
         <item>
             <title><![CDATA[Hello World 🎉]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/2019/05/04/hello-world.html</link>
-            <guid>https://your-docusaurus-test-site.com/blog/2019/05/04/hello-world.html</guid>
+            <link>https://1hive.github.io/mvp/blog/2019/05/04/hello-world.html</link>
+            <guid>https://1hive.github.io/mvp/blog/2019/05/04/hello-world.html</guid>
             <pubDate>Sat, 04 May 2019 06:00:00 GMT</pubDate>
             <description><![CDATA[<h2><a class="anchor" aria-hidden="true" id="thanks-for-checking-out-the-blog"></a><a href="#thanks-for-checking-out-the-blog" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Thanks for checking out the blog 😊</h2> ]]></description>
         </item>
         <item>
             <title><![CDATA[Harberger Taxation and Open Source]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/2018/08/14/harberger-taxation-and-open-source.html</link>
-            <guid>https://your-docusaurus-test-site.com/blog/2018/08/14/harberger-taxation-and-open-source.html</guid>
+            <link>https://1hive.github.io/mvp/blog/2018/08/14/harberger-taxation-and-open-source.html</link>
+            <guid>https://1hive.github.io/mvp/blog/2018/08/14/harberger-taxation-and-open-source.html</guid>
             <pubDate>Tue, 14 Aug 2018 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>A novel approach to creating a self-sustainable digital commons</p> <h2><a class="anchor" aria-hidden="true" id="disclaimers"></a><a href="#disclaimers" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Disclaimers</h2> <p>This is a repost of the <a href="https://medium.com/hive-commons/harberger-taxation-and-open-source-58dcdbab140d">Harberger Taxation and Open Source</a> post. While some of the details and references in the post are no longer relevant, the overall message is important...</p>]]></description>
         </item>
         <item>
             <title><![CDATA[Introducing Hive Commons]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/2017/07/04/introducing-hive-commons.html</link>
-            <guid>https://your-docusaurus-test-site.com/blog/2017/07/04/introducing-hive-commons.html</guid>
+            <link>https://1hive.github.io/mvp/blog/2017/07/04/introducing-hive-commons.html</link>
+            <guid>https://1hive.github.io/mvp/blog/2017/07/04/introducing-hive-commons.html</guid>
             <pubDate>Tue, 04 Jul 2017 06:00:00 GMT</pubDate>
             <description><![CDATA[<p><img src="https://cdn-images-1.medium.com/max/1440/1*kfZ3IVwHaTDeGPlXUDwbpQ.png"></p> <p>This is a repost of the <a href="https://medium.com/hive-commons/introducing-hive-commons-95dad77814bb">Introducing Hive Commons</a> post. While some of the details and references in the post are no longer relevant, the overall message is important. Hopefully this provides more insight into the foundation, intention, and goals of 1...</p>]]></description>
         </item>
