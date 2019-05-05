@@ -14,7 +14,7 @@ If you want to learn more about the architecture of Aragon in general, the [Wiki
 
 ## The Aragon Client
 
-This is the thing you use to interact with Aragon. It's fairly standard, but takes a little getting used to at first. I highly recommend just going to https://mainnet.aragon.org/#/ to try it out. ([If you have Metamask or Web3 enabled](guides/basics.md)) You'll be able to create a DAO and explore the apps. It's not fun exploring a Decentralized Autonomous Commuhnity of 1, but at least you'll learn where the buttons are ¯\_(ツ)_/¯
+This is the thing you use to interact with Aragon. It's fairly standard, but takes a little getting used to at first. I highly recommend just going to https://mainnet.aragon.org/#/ to try it out. ([If you have Metamask or Web3 enabled](guides/basics.md)) You'll be able to create a DAO and explore the apps. It's not fun exploring a Decentralized Autonomous Commuhnity of 1, but at least you'll learn where the buttons are ¯\\_(ツ)_/¯
 
 ## Aragon Apps
 
