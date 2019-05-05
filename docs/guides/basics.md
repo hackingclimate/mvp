@@ -5,7 +5,8 @@ title: Getting started with Ethereum 🐛
 ---
 
 <br>
-<h1 align='center'>WIP 🚧</h1>
+
+# WIP 🚧
 Just posting stuff to start getting something on the blank page that can then be refined into something that's actually helpful :) 
 
 <br>
