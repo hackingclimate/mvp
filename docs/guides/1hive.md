@@ -1,10 +1,10 @@
 ---
-id: handbook 
-sidebar_label: Handbook 📒
+id: 1hive
+sidebar_label: 1Hive 📒
 title: The 1Hive Handbook 📒
 ---
 
-This desscribes the current state of the 1Hive community, the token model, and expectations of the community
+This desscribes the 1Hive token model, community expectations, and governance structure. 
 
 <br>
 

@@ -1,8 +1,8 @@
 {
   "docs": {
 		"Welcome": ["welcome"],
-    "Community": ["community/welcome", "community/socials", "community/handbook"],
-    "Guides": ["guides/welcome", "guides/ethereum", "guides/aragon", "guides/autark"],
+    "Community": ["community/socials"],
+    "Guides": ["guides/welcome", "guides/ethereum", "guides/aragon", "guides/autark", "guides/1hive"],
     "Contributing": ["contributing/welcome", "contributing/docs","contributing/ideas", "contributing/issues"]
   },
   "docs-other": {
