@@ -1,7 +1,7 @@
 ---
 id: handbook 
-title: Handbook 📒
 sidebar_label: Handbook 📒
+title: The 1Hive Handbook 📒
 ---
 
 # 1Hive Handbook 

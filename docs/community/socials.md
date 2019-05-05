@@ -1,7 +1,7 @@
 ---
 id: socials 
-title: Socials 📱
 sidebar_label: Socials 📱
+title: Connecting with the community 📱
 ---
 
 ### Keybase Team 💬

@@ -1,9 +1,11 @@
 ---
 id: issues 
-title: Open Issues On GitHub 🚧
-sidebar_label: Open Issues 🚧
+sidebar_label: Open Issues 🐝🌺
+title: Open issues to turn into honey 🐝🌺
 ---
 
-# Welcome to the Open Issues!
+## Let's get stuff done 🍯
 
-This is where we'll link to open issues people can contribute to, either through GitHub or TPS within the DAO
+Issues with open bounties can be found on the [DAO](https://rinkeby.aragon.org/#/0xe520428C232F6Da6f694b121181f907931fD2211)
+
+Issues without open bounties can be found on [most of these GitHub repos](https://github.com/1Hive) :)

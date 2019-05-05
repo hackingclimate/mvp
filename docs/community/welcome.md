@@ -1,7 +1,7 @@
 ---
 id: welcome
-title: Hi 👋
 sidebar_label: Hi 👋
+title: Welcome to 1Hive 👋
 ---
 
 We are a public community organization operating on [Aragon](aragon.org).

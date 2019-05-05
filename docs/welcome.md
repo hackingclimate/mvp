@@ -1,7 +1,7 @@
 ---
 id: welcome
-title: Welcome 👋
 sidebar_label: Welcome 👋
+title: Welcome 👋
 ---
 
 ### Welcome to the docs! 📚

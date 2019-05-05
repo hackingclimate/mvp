@@ -1,7 +1,7 @@
 ---
 id: welcome
-title: Getting Started With 1Hive and DAOs 🐝
 sidebar_label: Getting Started 🐝
+title: Getting Started With 1Hive and DAOs 🐝🦅
 ---
 
 # Welcome to the Guides! 🐝
