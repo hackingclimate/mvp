@@ -18,9 +18,7 @@ Docusaurus has great docs. Rather than recreating them, I'll just link to the mo
 - [Navigation and Sidebars](https://docusaurus.io/docs/en/navigation) - this explains how to link a new Markdown document to the rest of the webiste.
 - [Publishing your site](https://docusaurus.io/docs/en/publishing) - TL;DR you have to uncomment some stuff in `siteConfig.js`, then navigate to the `website` directory, then run the script below
 
-	GIT_USER=your-username\
-		CURRENT_BRANCH=master \
-		yarn run publish-gh-pages
+`GIT_USER=your-username CURRENT_BRANCH=master yarn run publish-gh-pages`
 
 When you're done publishing, remember to go back to `siteConfig.js` and uncomment the publish params and go back to the local dev build!
 
