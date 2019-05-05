@@ -1,13 +1,13 @@
 ---
 id: autark
-sidebar_label: Autark TPS 🐛
-title: Autark TPS 🐛
+sidebar_label: TPS 🐛
+title: That Planning Suite 🐛
 ---
 
 ## Autark
 - mission
 - flock team
-- apps
+- That Planning Suite
 
 ## Projects
 
