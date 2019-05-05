@@ -17,7 +17,7 @@ Aragon wants to empower people and create more freedom in the world. Most people
 
 The [website](https://aragon.org/) is a great place to start to learn about all things Aragon. This [blog](https://blog.aragon.one/) is awesome too. There's also a [monthly newsletter](https://monthly.aragon.org/) I guess?
 
-If you want to learn more about the architecture of Aragon in general, the [Wiki](https://wiki.aragon.org/) is probably the best (and the most boring) way to familiarize yourself with Aragon. There are also [user guides](https://wiki.aragon.org/tutorials/Aragon_User_Guide/), but I don't know of anyone who's actually used them. There's also the dev docs at [hack.aragon](https://hack.aragon.org/). These are excellent, but aimed at a more technical audience.
+If you want to learn more about the architecture of Aragon in general, the [Wiki](https://wiki.aragon.org/) is probably the best (and the most boring) way to familiarize yourself with Aragon. There are also [user guides](https://wiki.aragon.org/tutorials/Aragon_User_Guide/), but I don't know of anyone who's actually used them. There's also the excellent dev docs at [hack.aragon](https://hack.aragon.org/), but they are aimed at a more technical audience.
 
 ## The Aragon Client
 
