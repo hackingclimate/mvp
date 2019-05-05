@@ -1,5 +1,5 @@
 ---
-id: autark
+id: tps
 sidebar_label: TPS 🐛
 title: That Planning Suite 🐛
 ---
