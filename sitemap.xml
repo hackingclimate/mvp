@@ -6,7 +6,6 @@
 <url> <loc>https://1hive.github.io/mvp/blog/2019/05/04/hello-world</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2018/08/14/harberger-taxation-and-open-source</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2017/07/04/introducing-hive-commons</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://1hive.github.io/mvp/docs/assets/placeholder</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/assets/placeholder" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/community/handbook</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/handbook" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/community/socials</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/socials" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/contributing/docs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/contributing/docs" /> </url>
