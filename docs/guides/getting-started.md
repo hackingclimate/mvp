@@ -8,7 +8,7 @@ title: Getting Started With Blockchain Basics ⛓️
 
 <br>
 
-## [Chrome](https://www.google.com/chrome/)
+## [Chrome 🌈](https://www.google.com/chrome/)
 
 Often early stage software projects have not done cross-browser compatability testing. This means that Chrome is your safest bet for getting things to work. Runners up include [Brave](https://brave.com/) and [Firefox](https://www.mozilla.org/en-US/firefox/).
 
