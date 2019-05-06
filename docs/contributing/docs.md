@@ -19,6 +19,7 @@ If you want an example of what Docusaurus can do, look no further than the offic
 ## Docusaurus Docs 📚
 
 Docusaurus has great docs. Rather than recreating them, I'll just link to the most useful ones for editing this site.
+- [Markdown Guide](https://docusaurus.io/docs/en/doc-markdown) - how to use Markdown in Docusaurus
 - [Navigation and Sidebars](https://docusaurus.io/docs/en/navigation) - this explains how to link a new Markdown document to the rest of the website.
 - [Publishing your site](https://docusaurus.io/docs/en/publishing) - this explains how to publish the work you do locally to the actual website.
 
