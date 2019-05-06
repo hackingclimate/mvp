@@ -32,7 +32,7 @@ Notice the "Dot Voting" app on the left side vertical menu bar? That's the Autar
 
 <br>
 
-## How can I install dot voting for my DAO?
+## How do I add dot voting to my DAO?
 
 Autark has an install/onboarding guide right [here](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-dot-voting-app)!
 

@@ -6,5 +6,14 @@ title: Aragon Vault 🏦
 
 Securely owns and manages tokens on behalf of a DAO.
 
+## What is the vault app?
 
-https://github.com/aragon/aragon-apps/blob/master/apps/vault
+Not sure. It's mentioned in the [Aragon Apps repo](https://github.com/aragon/aragon-apps/), but I haven't seen it anywhere else...
+
+## WANTED 🤠
+
+100 HONEY reward for any information leading to the location of the Aragon Vault App docs.
+
+## Show me the code! 
+
+[Here's the GitHub](https://github.com/aragon/aragon-apps/blob/master/apps/vault)
