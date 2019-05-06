@@ -26,11 +26,29 @@ Docusaurus has great docs. Rather than recreating them, I'll just link to the mo
 
 ## Hacking On Docusaurus 💻
 
-TL;DR: you have to uncomment some stuff in `siteConfig.js`, then navigate to the `website` directory, then run the script below
+
+### TL;DR: to hack
+
+~ Everything that is a String can be edited via Markdown. The hot-reload server will show these changes if you refresh the local build in the browser.
+
+If you change anything using Javascript, you're probably going to need to disengage `yarn` then run `yarn start` again to see changes
+
+Good luck! 🍀
+
+
+### TL;DR: to publish
+
+Uncomment some stuff in `siteConfig.js`
+
+Then navigate to the `website` directory
+
+Then run the script below:
 
 `GIT_USER=your-username CURRENT_BRANCH=master yarn run publish-gh-pages`
 
 When you're done publishing, remember to go back to `siteConfig.js` and uncomment the publish params and go back to the local dev build!
+
+<br>
 
 Here's the long form of what that all looks like...
 

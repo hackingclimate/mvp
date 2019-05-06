@@ -56,6 +56,9 @@ Autark is passionate about building toward a world where progress is accelerated
 
 ### [Roll Your Own DAO W TPS!](https://rinkeby.autark.xyz/#/)
 
+### [Intgrate TPS With A Previously Deployed DAO](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md)
+
+
 <br>
 
 ## [1Hive 🐝](http://1hive.org)

@@ -4,7 +4,8 @@
 			"welcome"
 		],
     "Community": [
-			"community/socials"
+			"community/socials",
+			"community/handbook"
 		],
     "Guides": [
 			"guides/welcome",

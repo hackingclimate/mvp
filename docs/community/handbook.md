@@ -1,6 +1,6 @@
 ---
-id: 1hive
-sidebar_label: 1Hive 📒
+id: handbook
+sidebar_label: Handbook 📒
 title: The 1Hive Handbook 📒
 ---
 
