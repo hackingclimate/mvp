@@ -28,17 +28,15 @@ There are many uses for dot voting. If you think of any please [let us know!](ht
 
 ![dot voting](assets/dot-voting.png)
 
-
-Screenshots and stuff tbd
+Notice the "Dot Voting" app on the left side vertical menu bar? That's the Autark dot voting app. Once you have it installed you can create dot votes that will allow voters to click on votes in the middle of the page and then use the slider bars to determine how much of their voting weight they want to use for each vote. 
 
 <br>
 
-## How can I install dot voting on a DAO my community is already using?
+## How can I install dot voting for my DAO?
 
 Autark has an install/onboarding guide right [here](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-dot-voting-app)!
 
 <br>
-
 
 
 
