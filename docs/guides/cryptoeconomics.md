@@ -22,7 +22,7 @@ Using cryptography and economics to verifiably aligning incentives in positive-s
 
 [TokenEconomics](http://tokenengineering.net/) - the content is as good as the UI is bad
 
-
+[Web3 Revenue Primitives](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives/) - explores possible business models and cryptoeconomic mechanisms that can enable self sufficient blockchain projects/communities
 
 <br>
 
