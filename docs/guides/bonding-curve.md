@@ -8,13 +8,20 @@ This will start as an Awesome List, and morph into a guide that helps you unders
 
 <br>
 
-## Apiary
-- https://github.com/1Hive/apiary
+## What is a bonding curve?
 
 <br>
 
-## Aragon Black: fundraising app
+## What is it good for?
 
+<br>
+
+## Show me the code! 
+
+### Apiary
+- https://github.com/1Hive/apiary
+
+### Aragon Black: fundraising app
 - https://github.com/AragonBlack/fundraising
 
 <br>
