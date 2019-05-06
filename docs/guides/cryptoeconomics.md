@@ -24,6 +24,8 @@ Using cryptography and economics to verifiably aligning incentives in positive-s
 
 [Web3 Revenue Primitives](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives/) - explores possible business models and cryptoeconomic mechanisms that can enable self sufficient blockchain projects/communities
 
+[List of primitives useful for using cryptoeconomics-driven internet / social media applications](https://ethresear.ch/t/list-of-primitives-useful-for-using-cryptoeconomics-driven-internet-social-media-applications/3198)
+
 <br>
 
 
