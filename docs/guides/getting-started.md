@@ -8,6 +8,12 @@ title: Getting Started With Blockchain Basics ⛓️
 
 <br>
 
+## [Chrome](https://www.google.com/chrome/)
+
+Often early stage software projects have not done cross-browser compatability testing. This means that Chrome is your safest bet for getting things to work. Runners up include [Brave](https://brave.com/) and [Firefox](https://www.mozilla.org/en-US/firefox/).
+
+<br>
+
 ## [Metamask 🦊](https://metamask.io/)
 
 Metamask allows you to use Ethereum based applications in your browser. The [website](https://metamask.io/) has a video showing how it works. The TL;DR: go to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions), download [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn), open it up and follow the instructions. Write down all the passwords and passphrases you use. If you lose them, you'll lose all your tokens and need to start from scratch with another account. This is important. Any problems you have should be directed at the Metamask team as they are more familiar with their product than anyone else.
