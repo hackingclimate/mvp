@@ -1,7 +1,7 @@
 ---
 id: proxy-voting 
-sidebar_label: Proxy Voting 
-title: Proxy Voting
+sidebar_label: Proxy Voting 👥👥 ➡️ 👤 ➡️  🗳️  
+title: Proxy Voting 👥👥 ➡️ 👤 ➡️  🗳️
 ---
 
 Life is short and I trust you to vote like I would vote
@@ -16,9 +16,14 @@ Proxy voting (aka liquid democracy or delegate voting) is when you transfer your
 
 ## What is it good for?
 
+Saves people time if they don't want to research all the issues. 
+Helps for complex/technical topic where you might not know the right answer, but you know someone shares your values and also understands the situation better than you do.
+
 <br>
 
 ## Show me the code!
+
+TBD ¯\\\_(ツ)\_/¯
 
 <br>
 
