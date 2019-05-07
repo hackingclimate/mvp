@@ -40,11 +40,11 @@ The organization works on various projects: Each project is represented by a git
 
 Each task needs to be funded, assigned, and reviewed. We use the **Projects** application manage this.
 
-To minimize the need to vote on every stage of this workflow, we've also created two roles: *curator* and *reviewer*.
+To minimize the need to vote on every stage of this workflow, we've also created two roles: *curator* and *reviewer*:
 
-*Curators* look after the funding of issues (project tasks). They help create, refine, and prioritize them (you can think of curators as product managers of sorts).
+- *Curators* look after the funding of issues (project tasks). They help create, refine, and prioritize them (you can think of curators as product managers of sorts).
 
-While *Reviewers* approve task assignments and review work. You can think of them as mentors.
+- *Reviewers* approve task assignments and review work. You can think of them as mentors.
 
 A `Honey`-based vote is required to add or remove someone from the *curator* or *reviewer* role.
 
@@ -68,9 +68,7 @@ Reviewers are experienced members of the community responsible for approving tas
 
 There is only one reviewer role for all types of projects, and any reviewer can approve and review work on any task. However, reviewers are expected to coordinate with Workers and Curators to only approve and review work in their areas of expertise.
 
-The reviewer acts as mentor both when choosing whether to approve a worker for a task and when reviewing completed work. 
-
-If a worker is not a good fit for a task, the reviewer can suggest a more appropriate one.
+The reviewer acts as mentor both when choosing whether to approve a worker for a task and when reviewing completed work. If a worker is not a good fit for a task, the reviewer can suggest a more appropriate one.
 
 If submitted work needs improvement, the reviewer should provide guidance.
 
