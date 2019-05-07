@@ -14,3 +14,20 @@
 
 @media only screen and (min-width: 1500px) {
 }
+
+
+
+/* Dark Mode */
+
+body{
+  background-color: #111;
+  color: #eee;
+}
+body a {
+  color: #111;
+}
+body button {
+  background-color: #eee;
+  color: #111;
+}
+
