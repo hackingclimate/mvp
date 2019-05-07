@@ -21,7 +21,8 @@
 			"guides/welcome",
 			"guides/getting-started",
 			"guides/cryptoeconomics",
-			"guides/multisig"
+			"guides/multisig",
+			"guides/democracy"
 		],
     "Contributing": [
 			"contributing/welcome",
