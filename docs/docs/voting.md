@@ -16,7 +16,10 @@ The voting app makes it easy for you to poll your fellow tokenholders about thei
 
 ## Where can I learn more?
 
-If you want to learn more, we recommend the [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/).
+The [docs](https://wiki.aragon.org/dev/apps/) are a great place to start
+- [Voting](https://wiki.aragon.org/dev/apps/voting/)
+
+If you want to learn more, check out the [user guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/).
 - [Voting](https://wiki.aragon.org/tutorials/Aragon_User_Guide/#33-voting)
 - [Voting app in the context of the Democracy DAO example](https://wiki.aragon.org/tutorials/Aragon_User_Guide/#223-voting-app)
 

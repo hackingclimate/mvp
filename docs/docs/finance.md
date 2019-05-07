@@ -4,7 +4,7 @@ sidebar_label: Finance 💸
 title: Aragon Finance App 🦅💸
 ---
 
-Send payments and manage expenses with budgeting.
+The purpose of the Finance app is to be the central point for keeping track of income and expenses in an organization, as well as performing payments.
 
 <br>
 
@@ -15,6 +15,9 @@ The Finance app is the app that provides tokenholders with access to the funds h
 <br>
 
 ## Where can I learn more?
+
+The [docs](https://wiki.aragon.org/dev/apps/) are a great place to start
+- [Finance](https://wiki.aragon.org/dev/apps/finance/)
 
 If you want to learn more, we recommend the [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/).
 - [Finance](https://wiki.aragon.org/tutorials/Aragon_User_Guide/#34-finance)
