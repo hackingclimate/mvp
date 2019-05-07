@@ -5,6 +5,7 @@
 <url> <loc>https://1hive.github.io/mvp/users</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/en/users" /> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2019/05/04/hello-world</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2018/08/14/harberger-taxation-and-open-source</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://1hive.github.io/mvp/blog/2018/07/16/liquid-democracy-ethereum,-and-the-slow-path-to-revolution</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/blog/2017/07/04/introducing-hive-commons</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/community/handbook</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/handbook" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/community/socials</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/community/socials" /> </url>
@@ -14,9 +15,11 @@
 <url> <loc>https://1hive.github.io/mvp/docs/contributing/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/contributing/welcome" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/allocation</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/allocation" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/bonding-curve</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/bonding-curve" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/guides/cryptoeconomics</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/cryptoeconomics" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/dot-voting</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/dot-voting" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/finance</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/finance" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/getting-started</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/getting-started" /> </url>
+<url> <loc>https://1hive.github.io/mvp/docs/guides/harberger-taxes</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/harberger-taxes" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/multisig</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/multisig" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/projects</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/projects" /> </url>
 <url> <loc>https://1hive.github.io/mvp/docs/guides/proxy-voting</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://1hive.github.io/mvp/docs/guides/proxy-voting" /> </url>

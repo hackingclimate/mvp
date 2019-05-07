@@ -33,6 +33,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Liquid Democracy, Ethereum, and the slow path to revolution]]></title>
+        <id>https://1hive.github.io/mvp/blog/2018/07/16/liquid-democracy-ethereum,-and-the-slow-path-to-revolution.html</id>
+        <link href="https://1hive.github.io/mvp/blog/2018/07/16/liquid-democracy-ethereum,-and-the-slow-path-to-revolution.html">
+        </link>
+        <updated>2018-07-16T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Liquid Democracy is a more direct form of democracy which would not be feasible without an infrastructure that enables rapid, secure, transparent, and trusted continuous voting. Ethereum’s smart contracts, despite some currently unresolved scaling is...</p>]]></summary>
+        <author>
+            <name>Luke Duncan</name>
+            <uri>https://github.com/lkngtn</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing Hive Commons]]></title>
         <id>https://1hive.github.io/mvp/blog/2017/07/04/introducing-hive-commons.html</id>
         <link href="https://1hive.github.io/mvp/blog/2017/07/04/introducing-hive-commons.html">
