@@ -7,20 +7,21 @@
 			"community/socials",
 			"community/handbook"
 		],
+		"Docs": [
+			"docs/allocation",
+			"docs/token-manager",
+			"docs/vault",
+			"docs/fundraising",
+			"docs/finance",
+			"docs/voting",
+			"docs/dot-voting",
+			"docs/projects"
+		],
     "Guides": [
 			"guides/welcome",
 			"guides/getting-started",
-			"guides/token-manager",
-			"guides/vault",
-			"guides/finance",
-			"guides/allocation",
-			"guides/redemption",
-			"guides/bonding-curve",
-			"guides/multisig",
-			"guides/voting",
-			"guides/proxy-voting",
-			"guides/dot-voting", 
-			"guides/tcr"
+			"guides/cryptoeconomics",
+			"guides/multisig"
 		],
     "Contributing": [
 			"contributing/welcome",
@@ -29,7 +30,13 @@
 			"contributing/issues"
 		]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "wip": {
+    "WIP": [
+			"wip/bonding-curve",
+			"harberger-taxes",
+			"wip/proxy-voting",
+			"wip/redemption",
+			"wip/tcr"
+		]
   }
 }

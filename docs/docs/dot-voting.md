@@ -32,14 +32,29 @@ Notice the "Dot Voting" app on the left side vertical menu bar? That's the Autar
 
 <br>
 
-## How do I add dot voting to my DAO?
+## Where can I learn more?
 
-Autark has an install/onboarding guide right [here](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-dot-voting-app)!
+The [Aurark website](https://www.autark.xyz/) is a great start.
+- [Range Voting app](https://www.autark.xyz/range-voting) (note: range voting = dot voting)
+
+[This blog post](https://medium.com/@stellarmagnet/that-planning-suite-live-on-rinkeby-c2332e2e5e27) also explains how to use the app in more detail. 
 
 <br>
 
+## Show me the code!
 
+[Dot Voting repo on GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/dot-voting)
 
+[Here's how you can add the Projects app to a pre-existing DAO](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-dot-voting-app)!
 
+[Here's where you can roll your own TPS enables DAO on Rinkeby to explore the Projects app](https://rinkeby.autark.xyz/)
 
+[Here's a live working DAO that's set up with TPS apps already enabled](https://rinkeby.aragon.org/#/dune.aragonid.eth)
 
+<br>
+
+## Still have questions?
+
+[Ask the Autark team on Keybase!](https://keybase.io/team/autark.community)
+
+<br>

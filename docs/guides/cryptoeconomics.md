@@ -1,10 +1,10 @@
 ---
 id: cryptoeconomics
-sidebar_title: Cryptoeconomics 💸
+sidebar_label: Cryptoeconomics 💸
 title: Cryptoeconomics 💸
 ---
 
-Using cryptography and economics to verifiably aligning incentives in positive-sum games
+Using cryptography and economics to create enforcable and verifiable positive-sum games that align the interests of all parties involved
 
 <br>
 
