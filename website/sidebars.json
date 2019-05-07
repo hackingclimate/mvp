@@ -4,10 +4,12 @@
 			"welcome"
 		],
     "Community": [
+			"community/welcome",
 			"community/socials",
 			"community/handbook"
 		],
 		"Docs": [
+			"docs/welcome",
 			"docs/allocation",
 			"docs/token-manager",
 			"docs/vault",
@@ -33,6 +35,7 @@
   },
   "wip": {
     "WIP": [
+			"wip/welcome",
 			"wip/bonding-curve",
 			"harberger-taxes",
 			"wip/proxy-voting",
