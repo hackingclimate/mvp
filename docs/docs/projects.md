@@ -31,6 +31,8 @@ The [Aurark website](https://www.autark.xyz/) is a great start.
 
 [Here's where you can roll your own TPS enables DAO on Rinkeby to explore the Projects app](https://rinkeby.autark.xyz/)
 
+[Here's a live working DAO that's set up with TPS apps already enabled](https://rinkeby.aragon.org/#/dune.aragonid.eth)
+
 <br>
 
 ## Still have questions?
